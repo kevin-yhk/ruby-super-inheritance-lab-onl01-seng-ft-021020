@@ -8,8 +8,7 @@ class ChattyStudent < Student
   def raise_hand
     super
     9.times do 
-      super
-      #or puts "Pick me!"
+      super #or puts "Pick me!"
     end
   end 
      
